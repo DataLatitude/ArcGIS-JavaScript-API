@@ -17,5 +17,4 @@ The REST API for feature services are linked throguh [ESRI Living Atlas]("https:
 
 ### Switch 2D to 3D Map
 
-**ArcGisJsSwitch2d3d.html**: 
-Please check the interactive [map](https://datalatitude.neocities.org/ArcGisJsSwitch2d3d.html)   
+**ArcGisJsSwitch2d3d.html**: Please check the interactive [map](https://datalatitude.neocities.org/ArcGisJsSwitch2d3d.html)   
