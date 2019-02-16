@@ -7,7 +7,9 @@ The REST API for feature services are linked throguh [ESRI Living Atlas]("https:
 
 ### 2D Map
 
-**ArcGisJsWebAppMapFeatureService2D.html**: Please check the interactive [map](https://datalatitude.neocities.org/ArcGisJsWebAppMapFeatureService2D.html)  
+**ArcGisJsWebAppMapFeatureService2D.html**: Please check the interactive [map](https://datalatitude.neocities.org/ArcGisJsWebAppMapFeatureService2D.html)
+
+<iframe src="https://datalatitude.neocities.org/ArcGisJsWebAppMapFeatureService2D.html" width="80%"></iframe>
 
 
 ### 3D Map
