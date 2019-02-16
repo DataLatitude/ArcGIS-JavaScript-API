@@ -9,4 +9,4 @@ The REST API for feature services are linked throguh ESRI [Living Atlas](https:/
 
 **ArcGisJsWebAppMapFeatureService2D.html**
 Please check the interactive [map](https://datalatitude.neocities.org/ArcGisJsWebAppMapFeatureService2D.html).
-<script src="http://gist-it.appspot.com/https://github.com/dotnet/corefx/blob/master/src/System.ObjectModel/src/System/Windows/Input/ICommand.cs"></script>
+<script src="http://gist-it.appspot.com/https://datalatitude.neocities.org/ArcGisJsWebAppMapFeatureService2D.html"></script>
