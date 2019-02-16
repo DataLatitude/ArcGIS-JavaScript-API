@@ -4,3 +4,7 @@ This ArcGIS API for JavaScript map consists of home button, scale bar, search wi
 
 The REST API for feature services are linked throguh ESRI [Living Atlas](https://livingatlas.arcgis.com/en/) posted by [esri_demographics](https://www.arcgis.com/home/search.html?q=owner%3Aesri_demographics&start=1&sortOrder=true&sortField=relevance#content) and [lisa_berry](https://www.arcgis.com/home/search.html?q=owner%3Alisa_berry&restrict=false&start=1&sortOrder=true&sortField=relevance). You may replace the URLs for feature services REST API with map services REST API.  
 
+
+### 2D Map
+
+**ArcGisJsWebAppMapFeatureService2D.html**
